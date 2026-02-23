@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.uno{
+    background-color: darksalmon;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 12px;
+}
+
+.adjust-font-size{
+    font-size: 18px;
+}
+
+#number2{
+    color: blue;
+    font-size: 32px;
+}
+
+#number3{
+    background-color: rgb(21, 228, 21);
+}
+
